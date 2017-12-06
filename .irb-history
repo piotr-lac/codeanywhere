@@ -1,0 +1,14 @@
+first_name = "Piotr"
+last_name = "Lac"
+first_name + " " + last_name
+first_name.class
+
+first_name
+first_name_also = first_name
+first_name = "koko"
+first_name_also
+"my name is #{first_name}"
+"my name is 'koko'"
+'my name is /'koko/''
+'my name is \'koko\''
+exit

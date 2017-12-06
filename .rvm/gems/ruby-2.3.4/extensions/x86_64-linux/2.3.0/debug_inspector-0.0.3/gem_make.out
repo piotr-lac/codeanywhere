@@ -1,0 +1,15 @@
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/cabox/.rvm/rubies/ruby-2.3.4/bin/ruby -r ./siteconf20171205-14018-y6dqye.rb extconf.rb
+creating Makefile
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug_inspector.so ./.gem.20171205-14018-1q2c15a

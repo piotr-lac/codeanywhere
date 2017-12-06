@@ -1,0 +1,16 @@
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+/home/cabox/.rvm/rubies/ruby-2.3.4/bin/ruby -r ./siteconf20171205-14018-1ke15up.rb extconf.rb
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /home/cabox/.rvm/gems/ruby-2.3.4/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
