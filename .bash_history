@@ -69,3 +69,23 @@ git remote add origin https://github.com/piotr-lac/codeanywhere.git
 git push -u origin master
 git status
 git add .
+cd ..
+ls
+ls -a
+git status
+git add .
+git status
+git commit -m "first commit"
+git push origin master
+ls -a
+git status
+ls
+cd workspace/
+ls
+cd ruby_projects/
+clear
+ruby user.rb 
+clear
+mkdir project_2
+clear
+cd project_2/
